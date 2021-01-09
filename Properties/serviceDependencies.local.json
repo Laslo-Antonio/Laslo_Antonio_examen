@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Laslo_Antonio_examenContext"
+    }
+  }
+}
